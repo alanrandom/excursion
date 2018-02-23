@@ -1,5 +1,17 @@
+/* things to work on: 
+ * putting the same things into 1 place to avoid repetition
+ * dividing up things correctly */
+
 * {
     background-color: black;
+    color: white;
+    text-align: center;
+    font size: 100px;
+}
+
+#video {
+    text-align: center;
+
 }
 
 .Title {
@@ -10,8 +22,24 @@
     text-align: center;
 }
 
+.heading {
+    font family: Verdana;
+
+}
 
 .download {
     color: aquamarine;
     font size: 16px;   
+    text-align: center;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+}
+
+.text {
+    font family: Verdana;
+    font size: 21px;
+    color: gray;
 }
